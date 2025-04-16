@@ -6,7 +6,7 @@ const App = () => {
   
  
   const [name,setName]= useState("")
-  let str = "Hello,"
+  let str = "Hello"
   let x = "!"
   if(name){
    
